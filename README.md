@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-using-tailwind-css-and-html-1IjB80GIg6))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://ahmad-qarany-farhan-huddle-landing-pa.netlify.app/))
 
 ## My process
 
